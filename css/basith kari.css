@@ -87,7 +87,7 @@ body{
 }
 .section-2{
     width:90% ;
-    height: 500px;
+    height: 2000px;
     background-color: black;
     margin: auto;
     margin-top: 3px;
@@ -97,9 +97,76 @@ body{
 .text-6{
     position: absolute;
     z-index: 1;
-    top: 25px;
-    left: 400px;
+    top: -20px;
+    left: 620px;
     color: rgb(242, 10, 10);
+    font-size: 50px;
+    font-style: inheriS;
 
 
 }
+.mc1{
+    position: absolute;
+    z-index: 2;
+    top: 151px;
+    left: 70px;
+    width: 340px;
+    height: 250px;
+    border: 5px solid white;
+}    
+
+.text-7{
+    position: absolute;
+    z-index: 2;
+    top: 400px;
+    left: 175px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.mc2{
+    position: absolute;
+    z-index: 2;
+    top: 150px;
+    left: 550px;
+    width: 420px;
+    height: 250px;
+    border: 5px solid white;
+
+
+}
+.text-8{
+    position: absolute;
+    z-index: 2;
+    top: 400px;
+    left: 730px;
+    color: antiquewhite;
+    font-size: 20px;
+    
+}
+.mc3{
+    position: absolute;
+    z-index: 2;
+    top: 151px;
+    left: 1090px;
+    width: 350px;
+    height: 250px;
+    border: 5px solid white;
+}
+.text-9{
+    position: absolute;
+    z-index: 2;
+    top: 400px;
+    left: 1220px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+.mc4{
+    position: absolute;
+    z-index: 2;
+    top: 511px;
+    left: 70px;
+    width: 340px;
+    height: 250px;
+    border: 5px solid white;
+}
+    
